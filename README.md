@@ -1,6 +1,6 @@
 # **_`The Habibi Casino`_**
 # Video Demo: https://youtu.be/zpsW_1FBBW8
-Description:
+[![Cover Photo](habibicasino.png)](https://github.com/HabibiKang/The-Habibi-Casino/)Description:
     A fully interactive Casino program that simulates 
 some of the most notorious Casino games.
 The user is greeted with a command-line interface with game options for all four casino games. Users can select the game they wish to play via command-line arguments of 1,2,3, and 4. Once the user is done playing a game, they are granted the option to either cashout or continue playing. If the user cashes out, they are brought back to the command-line interface and are welcome to play other games after making another deposit. If a user has questions about a game, they are able to view the rules during gameplay by typing 'R'. 
